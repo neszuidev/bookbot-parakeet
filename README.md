@@ -1,1 +1,1 @@
-# bookbot-parakeet
+# Python practice through bookbot.
